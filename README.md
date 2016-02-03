@@ -1,4 +1,4 @@
-Boat Design
+[Boat Design](https://github.com/wilstenholme/boat-design)
 ===========
 
 Boat Design 2016 Class  
